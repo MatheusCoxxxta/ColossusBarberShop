@@ -1,0 +1,19 @@
+<html>
+	<head>
+		<title> </title>
+
+		<style>
+		.banner
+		{	
+			background-img: url(barber.jpg);
+			width: 1440px;
+			height 900px:
+		}
+		</style>
+	</head>
+	<body>
+		<div class="banner"> 
+	</body>
+</html>
+
+		
